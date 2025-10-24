@@ -21,7 +21,7 @@ Requirements
 Installation
 
 1. Clone the repository:
-   git clone https://github.com/your_account/discord-weather-bot.git
+   git clone https://github.com/mendelson8/discord_weather_bot.git
    cd discord-weather-bot
 
 2. Install the required packages:
