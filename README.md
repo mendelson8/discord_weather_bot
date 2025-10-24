@@ -25,16 +25,16 @@ Installation
    
    cd discord-weather-bot
 
-3. Install the required packages:
+2. Install the required packages:
    
    pip install discord.py requests beautifulsoup4 python-dotenv
 
-5. Create a .env file in the same directory and add:
+3. Create a .env file in the same directory and add:
    
    DISCORD_TOKEN=your_discord_token
 
    WEATHER_API_KEY=your_weatherapi_key
 
-7. Run the bot:
-8. 
+4. Run the bot:
+   
    python bot.py
